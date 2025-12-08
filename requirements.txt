@@ -1,0 +1,12 @@
+ollama
+chromadb
+onnxruntime
+pdfplumber 
+langchain
+langchain-ollama
+langchain_text_splitters
+unstructured[all-docs]
+fastembed
+pikepdf
+sentence-transformers
+elevenlabs

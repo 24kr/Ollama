@@ -22,4 +22,5 @@ logs/*.log
 # ignore system files
 *.swp
 *~
-*.bak   
+*.bak
+.venv
